@@ -29,6 +29,7 @@ const BlueClickTracker = () => {
         </ClickTracker>
     );
 };
+
 const GreenClickTracker = () => {
     return (
         <ClickTracker>
