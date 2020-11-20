@@ -7,9 +7,9 @@
 ## Usage
 
 ```jsx
-const myClickCounter = () => (
-    <ClickCounter>
+const myClickTracker = () => (
+    <ClickTracker>
         {({ clickCount }) => <div>I've been clicked {clickCount} times!</div>}
-    </ClickCounter>
+    </ClickTracker>
 );
 ```
